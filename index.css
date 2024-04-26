@@ -1,0 +1,21 @@
+#data-nama {
+  color: #9a1ecb;
+  font-size: 36px;
+}
+
+#container-detail{
+    display: inline-block;
+}
+
+#foto-profil, #container-detail{
+  vertical-align: middle;
+}
+
+#kartu-mahasiswa{
+    border: 5px solid black;
+}
+
+.detail-kartu {
+  background-color: lightgreen;
+  display: block;
+}
